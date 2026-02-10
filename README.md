@@ -1,49 +1,22 @@
-Hi 👋, I'm **Janarthan**  
-A passionate **Full Stack Engineer** from Sri Lanka 🇱🇰  
+Hi 👋, I'm **Janarthan** 🇱🇰  
+🚀 Full Stack Engineer | AI & Vision Enthusiast  
 
-🔭 **Currently Working On:**  
+🔭 **Currently working on:**  
 - Administration Management System  
-- LLM-based applications  
-- Prompt Engineering for Large Language Models  
-- Vision-based AI systems  
-- Node.js applications integrated with LLMs  
+- LLM applications & Prompt Engineering  
+- Vision-based AI systems with Node.js  
 
-🌱 **Currently Learning:**  
-- Advanced LLM architectures  
-- Vision-language models  
-- Multimodal AI systems  
-- AI-powered enterprise solutions  
+🌱 **Exploring:**  
+- LLMs & Multimodal Models  
+- Vision + Language systems  
 
-💡 **Areas of Expertise:**  
-- **AI & Computer Vision:**  
-  - Vision Models  
-  - Computer Vision  
-  - OpenCV  
-  - Real-time CCTV monitoring  
-  - Object Detection  
-  - Video analytics  
+💡 **Tech & Experience:**  
+- 🤖 Computer Vision | OpenCV | Object Detection | CCTV Analytics  
+- 🟢 Node.js | 🔵 React.js | 🐍 Python
+- 🏢 Enterprise application development  
 
-- **Backend & Full Stack Development:**  
-  - Node.js  
-  - Python  
-  - Spring Boot (Java)  
-  - REST APIs  
-  - Scalable enterprise applications  
+👨‍💻 Projects: https://github.com/janarthan-j  
 
-- **Frontend:**  
-  - ReactJS  
-  - TypeScript  
-  - Modern UI development  
+💬 Ask me about: Python, Node.js, React, LLMs, Computer Vision  
 
-🏢 **Professional Focus:**  
-- Enterprise application development  
-- AI-integrated software systems  
-- Real-time data processing applications  
-- Intelligent monitoring systems  
-
-👨‍💻 **Projects:**  
-All of my projects are available at:  
-👉 https://github.com/janarthan-j   
-
-📫 **How to reach me:**  
-📧 janaroy21@gmail.com  
+📫 Reach me: **janaroy21@gmail.com**  
